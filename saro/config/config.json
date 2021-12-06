@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "library123",
+    "database": "Library",
+    "host": "library.ca0pnzyz6liz.ap-south-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Welcome@ta123",
+    "database": "lib",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Welcome@ta123",
+    "database": "lib",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
